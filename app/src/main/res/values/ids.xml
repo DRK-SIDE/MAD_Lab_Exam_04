@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewTaskName" type="id" />
+    <item name="textViewTaskDate" type="id" />
+    <item name="textViewTaskTime" type="id" />
+    <item name="buttonEdit" type="id" />
+    <item name="buttonDelete" type="id" />
+    <item name="editTextTask" type="id" />
+    <item name="buttonAdd" type="id" />
+    <item name="taskListView" type="id" />
+</resources>
